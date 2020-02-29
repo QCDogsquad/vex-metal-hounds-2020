@@ -80,6 +80,7 @@ extern "C" {
 
 //~ Robot includes
 #include "robot.h"
+#include "tyler_utilities.h"
 
 #ifdef __cplusplus
 /**
